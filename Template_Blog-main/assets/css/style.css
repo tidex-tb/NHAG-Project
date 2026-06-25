@@ -1,0 +1,48 @@
+.post-date{
+    background-color: grey;
+    padding:2px;
+    margin:3px 0;
+    display:block;
+}
+
+post-thumb{
+    width: 25%;
+    height: auto;
+}
+body {
+    background-image: url('/assets/images/LOGO_1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;}
+
+.btn-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.btn {
+    margin-right: 10px; /* Adjust as needed */
+}
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    background-color: #93c54b;
+  }
+  
+  a{
+    text-decoration: none;
+  }
