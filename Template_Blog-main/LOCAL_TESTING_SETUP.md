@@ -511,7 +511,6 @@ After local testing is successful:
 ## SUPPORT RESOURCES
 
 **Documentation:**
-- [IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md) - Setup and configuration
 - [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) - Production deployment
 - [README.md](./README.md) - Project overview
 - Code comments in controllers and models

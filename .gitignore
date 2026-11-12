@@ -1,0 +1,8 @@
+# Project documents: kept on the developer's PC, not part of the running app
+Template_Blog-main/outputs/
+Template_Blog-main/COMPLETION_SUMMARY.md
+Template_Blog-main/IMPLEMENTATION_GUIDE.md
+Template_Blog-main/QUICK_REFERENCE.md
+Template_Blog-main/VIEWS_IMPLEMENTATION_SUMMARY.md
+# Bootstrap source tree; the app uses assets/css and a CDN
+Template_Blog-main/bootstrap-4.0.0/

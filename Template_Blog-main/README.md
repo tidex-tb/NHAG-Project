@@ -61,7 +61,6 @@ A comprehensive, production-ready savings management platform built on CodeIgnit
 
 ## DOCUMENTATION
 
-- **IMPLEMENTATION_GUIDE.md** - Complete setup and configuration
 - **DEPLOYMENT_GUIDE.md** - Production deployment instructions
 - **Code Comments** - Detailed comments in all controller and model files
 
@@ -94,7 +93,7 @@ A comprehensive, production-ready savings management platform built on CodeIgnit
 
 ## SUPPORT
 
-- **Documentation:** See IMPLEMENTATION_GUIDE.md and DEPLOYMENT_GUIDE.md
+- **Documentation:** See DEPLOYMENT_GUIDE.md and LOCAL_TESTING_SETUP.md
 - **Email:** support@nhag.org.na
 - **Phone:** +264 61 123456
 
